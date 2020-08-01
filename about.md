@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+一个在努力的“前端工程师”。
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+`HTML` `CSS` `JavaScript` `ES6` `Vue` `小程序` `切版`
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[wuyuxin_0518@163.com](mailto:wuyuxin_0518@163.com)
