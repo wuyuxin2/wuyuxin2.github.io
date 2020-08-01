@@ -4,5 +4,6 @@ title: For You
 permalink: /foryou/
 ---
 
-[嘿，bro！](https://wuyuxin2.github.io/foryou/index.html)
+随便康康～
+[嘿，bro！](https://wuyuxin2.github.io/foryou1/index.html)
 [嘿，bro2！](https://wuyuxin2.github.io/_layouts/foryou.html)
