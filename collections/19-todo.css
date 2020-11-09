@@ -46,7 +46,7 @@ body {
   height: 500px;
   background-color: #fff;
   float: right;
-  background-image: url("../images/Puzzle/bg2.jpg");
+  background-image: url("./bg2.jpg");
 }
 .winPage {
   position: fixed;
