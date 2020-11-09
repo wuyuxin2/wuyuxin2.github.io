@@ -8,6 +8,6 @@ permalink: /collection/
 
 [稀饭版](http://wuyuxin2.github.io/collections/foryou.html)
 
-> CSS 动画
+> Vue
 
-[BOOM BOOM]()
+[拼图🧩小游戏](http://wuyuxin2.github.io/collections/todo.html)
