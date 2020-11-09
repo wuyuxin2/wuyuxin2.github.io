@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./css/19-todo.css" />
+    <link rel="stylesheet" href="./19-todo.css" />
 </head>
 
 <body>
@@ -29,7 +29,7 @@
         </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js"></script>
-    <script src="./js/vue.js"></script>
+    <script src="./vue.js"></script>
     <script>
         const { ref, reactive, onMounted, watch } = Vue;
         const app = {
@@ -66,7 +66,7 @@
                     }
                 })
                 onMounted(() => {
-                    axios.get("./api/puzzle.json").then((res) => {
+                    axios.get("./puzzle.json").then((res) => {
                         puzzleWait.content = res.data;
                     })
                 });
